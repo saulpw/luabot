@@ -1,0 +1,7 @@
+
+luabot requires these debian packages:
+   lua40-dev liblualib40-dev
+   libdb4.3-dev
+and
+   libstocks (included as tarball)
+
